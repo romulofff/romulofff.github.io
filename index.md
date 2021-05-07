@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+<!-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,14 +13,14 @@
 
 ---
 [Gym Hero](/_pages/gymhero)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Gym Hero](/gymhero)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Gym Hero](/gymhero)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
-[About](/_pages/about)
+<!-- ---
+[About](/_pages/about) -->
 
 ---
 [About](/about)
