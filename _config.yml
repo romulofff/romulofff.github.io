@@ -7,8 +7,16 @@ description: > # your text below (remove <br> elements if you don't need line br
  <br><br>
  <a href="https://www.linkedin.com/in/romulofff/">View My LinkedIn Profile</a> 
 
-twitter_username: romulof27
-github_username:  romulofff
+author:
+  name: "Rômulo Férrer Filho"
+  avatar: "/assets/images/me.jpg"
+  location: "Fortaleza, BR"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/romulofff"
+# twitter_username: romulof27
+# github_username:  romulofff
 
  
 theme: jekyll-theme-minimal
