@@ -1,8 +1,9 @@
 ## Portfolio
+Here you will find some projects I worked on.
 
 ---
 
-### Category Name 1 
+### Reinforcement Learning Projects
 
 <!-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -15,9 +16,8 @@
 [Gym Hero](/_pages/gymhero)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
 [Gym Hero](/gym-hero)
-<img src="images/gym-hero.png?raw=true" height="400"/> -->
+<img src="images/gym-hero.png?raw=true" height="400"/>
 
 <!-- ---
 [About](/_pages/about) -->
