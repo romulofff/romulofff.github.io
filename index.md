@@ -20,6 +20,8 @@ Here you will find some projects I worked on.
 Gym Hero is a Reinforcement Learning environment based on Guitar Hero. It was part of my undergraduate thesis. Here is a picture of the game:<br/>
 <img src="images/gym-hero.png?raw=true" height="400"/>
 
+---
+### Other projects
 ### [Joguinhos Grátis](/JoguinhosGratis)
 <a href="https://t.me/joguinhosgratis">Telegram Bot</a> I developed and mantain, there you will find the latest discounts and sales on games. All links are retrieved from <a href="https://reddit.com/r/gamedeals">r/gamedeals</a>.
 
