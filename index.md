@@ -21,8 +21,7 @@ Here you will find some projects I worked on.
 
 
 <br/><br/><br/><br/><br/><br/>
----
-[About](/about)
+
 
 
 ---
