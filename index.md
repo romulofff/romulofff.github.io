@@ -16,6 +16,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Gym Hero](/gymhero)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[About](/_pages/about)
+
+---
 [About](/about)
 
 ---
