@@ -1,6 +1,6 @@
 <div style="text-align: center"> 
 
-<img src="images/me.jpg?raw=true" alt="Photo" width="200" style="text-align: center"/>
+<img src="../images/me.jpg?raw=true" alt="Photo" width="200" style="text-align: center"/>
 
 </div>
 
