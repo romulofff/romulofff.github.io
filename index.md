@@ -16,28 +16,13 @@ Here you will find some projects I worked on.
 [Gym Hero](/_pages/gymhero)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-[Gym Hero](/gym-hero)
+### [Gym Hero](/gym-hero)
 <img src="images/gym-hero.png?raw=true" height="400"/>
 
-<!-- ---
-[About](/_pages/about) -->
 
+<br/><br/><br/><br/><br/><br/>
 ---
 [About](/about)
-
----
-
-<!-- ### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
---- -->
-
-
 
 
 ---
