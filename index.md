@@ -16,8 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-<!-- [Gym Hero](/gymhero)
-<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Gym Hero](/gym-hero)
+<img src="images/gym-hero.png?raw=true" height="400"/> -->
 
 <!-- ---
 [About](/_pages/about) -->
