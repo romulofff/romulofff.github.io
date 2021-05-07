@@ -1,10 +1,3 @@
----
-title: "About"
-permalink: /about/
-layout: single
-author_profile: false
----
-
 <img src="images/me.jpg" alt="Photo" width="200" style="text-align: center"/>
 
 <p style="text-align:left;">
