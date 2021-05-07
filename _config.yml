@@ -1,0 +1,11 @@
+title: Rômulo Filho # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Hello! I'm Rômulo Filho, a Data Scientist from Fortaleza, CE - Brazil. I'm passionate about games, technology and music. 
+ This is my portfolio where you will find links to the papers I published, talks I presented and some other interesting stuff.
+ Hope you enjoy it!
+ <br><br>
+ <a href="https://www.linkedin.com/in/romulofff/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: G-9R08KHY15V # your Google Analytics tracking ID here
