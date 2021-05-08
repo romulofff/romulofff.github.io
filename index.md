@@ -17,7 +17,7 @@ Here you will find some projects I worked on.
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ### [Gym Hero](/gym-hero)
-Gym Hero is a Reinforcement Learning environment based on Guitar Hero. It was part of my undergraduate thesis. Here is a picture of the game:<br></br>
+Gym Hero is a Reinforcement Learning environment based on Guitar Hero. It was part of my undergraduate thesis. Here is a picture of the game:<br/><br/>
 <img src="images/gym-hero.png?raw=true" height="400"/>
 
 ---
