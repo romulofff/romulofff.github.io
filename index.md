@@ -34,6 +34,7 @@ Exploratory analysis of the Board Game Geek Community dataset. The main objectiv
 - Is there an ideal number of players that influences the game's rating?
 
 To understand the dataset and answer these questions I did an exploratory analisys of the data, and plotted some graphics.
+[Click here for the repository.](/BoardGameGeekAnalysis)
 
 Content is in PT-BR.
 ### [Mortalidade Infantil](/Visudados_projeto)
