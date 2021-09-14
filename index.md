@@ -25,6 +25,8 @@ Gym Hero is a Reinforcement Learning environment based on Guitar Hero. It was pa
 ### [Joguinhos Grátis](/JoguinhosGratis)
 <a href="https://t.me/joguinhosgratis">Telegram Bot</a> I developed and mantain. There you will find the latest discounts and sales on games. All links are retrieved from <a href="https://reddit.com/r/gamedeals">r/gamedeals</a>.
 
+### [Board Game Geek Analysis](/BoardGameGeekAnalysis/boardgames.html)
+
 ### [Mortalidade Infantil](/Visudados_projeto)
 This project was developed as the final assignment for the Data Visualization Course I took at the Federal University of Ceará. It presents the data obtained from DATASUS regarding child mortality in Ceará. The visualizations were created using JavaScript, D3 and Crossfilter.
 
