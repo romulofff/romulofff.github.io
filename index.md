@@ -22,7 +22,7 @@ Gym Hero is a Reinforcement Learning environment based on Guitar Hero. It was pa
 
 ---
 ### Other projects
-### [Joguinhos Grátis](/JoguinhosGratis)
+### [Joguinhos Grátis](/JoguinhosGratis) (Deactivated due to Reddit pricing)
 <a href="https://t.me/joguinhosgratis">Telegram Bot</a> I developed and mantain. There you will find the latest discounts and sales on games. All links are retrieved from <a href="https://reddit.com/r/gamedeals">r/gamedeals</a>.
 
 ### [Board Game Geek Analysis](/BoardGameGeekAnalysis/boardgames.html)
