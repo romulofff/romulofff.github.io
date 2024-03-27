@@ -7,11 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
  <br><br>
  <a href="https://www.linkedin.com/in/romulofff/">View My LinkedIn Profile</a> 
  
- <a href="https://anchor.fm/botecosimulator">Listen to my Games Podcast (PT-BR)</a> 
 about: <a href="/about">About</a>
 author:
   name: "Rômulo Férrer Filho"
-  avatar: "/images/me.jpg"
+  avatar: "/images/me.png"
   location: "Fortaleza, BR"
   links:
     - label: "LinkedIn"
